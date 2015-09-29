@@ -16,7 +16,9 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp \
-    three_int_hash.cpp
+    three_int_hash.cpp \
+    uuid_generator.cpp
 
 HEADERS += \
-    three_int_hash.hpp
+    three_int_hash.hpp \
+    uuid_generator.hpp

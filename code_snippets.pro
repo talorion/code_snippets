@@ -7,7 +7,7 @@
 TEMPLATE = subdirs
 
 SUBDIRS += qt_threading \
-    unsorted \
+    #unsorted \
     simple_alogorithms
 
 # build must be last:
